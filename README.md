@@ -14,4 +14,4 @@ Applied all DBMS concepts like Primary keys, Foriegn keys, Triggers, Stored Proc
  <b>Anjali Chandwani <br>
 Nikunj Jain <br>
 Nishant Gupta <br>
-Yash Palajani </b> <br>
+Yash Pahalajani </b> <br>
