@@ -8,7 +8,7 @@ Created & Managed IPL Similar Database using IBM DB2 express C.
 Applied all DBMS concepts like Primary keys, Foriegn keys, Triggers, Stored Procedures, Cursors, Dynamic SQL etc.
 
 #Course Instructor
-<i>Rajbir Kaur </i> catchrajbirkaur@gmail.com
+<i>Dr. Rajbir Kaur </i>
 
 #Team Members
  <b>Anjali Chandwani <br>
