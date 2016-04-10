@@ -11,7 +11,7 @@ Applied all DBMS concepts like Primary keys, Foriegn keys, Triggers, Stored Proc
 Rajbir Kaur catchrajbirkaur@gmail.com
 
 #Team Members
-Anjali Chandwani <br>
+ <b>Anjali Chandwani <br>
 Nikunj Jain <br>
 Nishant Gupta <br>
-<b>Yash Palajani </b> <br>
+Yash Palajani </b> <br>
