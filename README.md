@@ -7,11 +7,11 @@ Academic Project for Advanced RDBMS course offered by IBM in LNMIIT Jaipur in Ja
 Created & Managed IPL Similar Database using IBM DB2 express C.
 Applied all DBMS concepts like Primary keys, Foriegn keys, Triggers, Stored Procedures, Cursors, Dynamic SQL etc.
 
-#Course Instrcutor
+#Course Instructor
 Rajbir Kaur catchrajbirkaur@gmail.com
 
 #Team Members
-Anjali Chandwani
-Nikunj Jain
-Nishant Gupta
-Yash Palajani
+Anjali Chandwani <br>
+Nikunj Jain <br>
+Nishant Gupta <br>
+<b>Yash Palajani </b> <br>
