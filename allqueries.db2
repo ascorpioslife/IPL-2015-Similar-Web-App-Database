@@ -445,3 +445,5 @@ create trigger trignorating after insert on ipl.VOTES referencing new as n for e
 create trigger trigrecordbt after insert on ipl.batsc referencing new as n for each row MODE DB2SQL begin ATOMIC if n.runs > 149 and n.runs<200 then insert into ipl.record (p_id,matchno,description) values(n.p_id,n.matchno,'150+ runs'); elseif n.runs>199 then insert into ipl.record (p_id,matchno,description) values(n.p_id,n.matchno,'200+ runs'); end if; end;
 
 create trigger trigrecordbl after insert on ipl.ballsc referencing new as n for each row MODE DB2SQL begin ATOMIC if n.wtaken>=5 then insert into ipl.record(p_id,matchno,description) values(n.p_id,n.matchno,'5 wicket haul'); end if; end;
+
+create UNIQUE index name_index on IPL.PLAYER(NAME ASC) include(TEAM_NAME);
